@@ -1,0 +1,11 @@
+{
+  "version": "1.12.1",
+  "notes": "Initial version from legacy",
+  "pub_date": "2023-11-17T14:24:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGtNbnZueFIreG9oVlZKVDFJTDZnMnh1KytBM0NuSEJKWSt4NUlBZ2RYSzQySTAxMVVSM2hQcEkwZTlqSjErRUxhT0JmMGwvbXhLZ1FqUUFCeVVHVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NTQ5MTg5CWZpbGU6T2N0byBNYWNyb18xLjEyLjFfeDY0LXNldHVwLm5zaXMuemlwClRuY3RFcFZnZW04VE9QcnV2Ty82STQ4Vk1ESjgzcmQvVVkvZGNtYTEra21YSWMxczFNK2RyS0pNTUFNTE1WNnNoVzF3aUdVZGlIWkExTGc4OFV6cUNBPT0K",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v1.12.1/Octo.Macro_1.12.1_x64-setup.nsis.zip"
+    }
+  }
+}
