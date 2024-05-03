@@ -1,11 +1,11 @@
 {
-  "version": "1.12.2",
-  "notes": "Bump version coming",
-  "pub_date": "2023-11-17T16:27:00.000Z",
+  "version": "2.7.3",
+  "notes": "Adicionado Extrato E para Ação Forçada.",
+  "pub_date": "2024-04-01T16:54:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHFmZzB3YlFtMmZiRVh0Yy9XM1V0ZmhVZVdhNG9nMkN5ZDVPTkd3ZjZjeUlZZHBQU1FxWEJRQzJNYkwrTVJCQVBTQkQxdDBHYUhWWEtsWWx3aHlCTHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NTU2NDU4CWZpbGU6T2N0byBNYWNyb18xLjEyLjJfeDY0LXNldHVwLm5zaXMuemlwCmxzdTV2WlZJeXB3QllaT0xWN2tQRmk3QWRlNHkvcUQyWlhUT1o3OUxIYWMvdWQrRXRiWXBMMTdHRE1wSmdoaC85QnI2UFdrYlJ2M1ViOFR5SXp6L0JRPT0K",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v1.12.2/Octo.Macro_1.12.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHFzS292TjJKYWZqMUV4VlYzQ1RLZnlsMkFyQWVWODRZTjMvL05VVW1pbm16SXorSTBVMWtxamFnTzY2RGViVHBRYXBHR2xqRld0Tk1vNFM1M2tuSVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMDAxMjk3CWZpbGU6T2N0b01hY3JvXzIuNy4zX3g2NC1zZXR1cC5uc2lzLnppcApBVUEvZVZwTml5a0NqdHRSakZRUE0wT1pHalBCTlRtWC9HdmNYV0FNT1BWU2xjR1puMVRJSkt1R2NvVkFORFR6WVpIZ3pPZjliby9yMnlvcVRYa1NDdz09Cg==",
+      "url": "https://www.googleapis.com/drive/v3/files/1K0FVxVmXkMHTKhRDN7G5ffqrJqmDU77b/?alt=media&acknowledgeAbuse=true&key=AIzaSyC2GWaTIhyCZs4OXqCVltGEyv6c5gl4Mjw"
     }
   }
 }
