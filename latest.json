@@ -1,10 +1,10 @@
 {
   "version": "3.0.0",
   "notes": "Macros para o GEOCALL",
-  "pub_date": "2024-05-03T10:02:00.000Z",
+  "pub_date": "2024-05-03T10:23:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGliVURFaXVOSStERlFNQzlrTmFKZXg1M0pSTGx2STkxL3E5a1JBNjZyWVAxcU11MWZXMnd1WXdwMXhyMWVVa08wUHhLcUtRME5jbzdRekhqeGNkb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NzMwNTU3CWZpbGU6T2N0b01hY3JvXzMuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAo1akhrMngyRlJHcS9oS2g4dUlmL0liUTJGMExoWElkMjY2YmxqT0Y4UkN6Vm9wNFV0dHZVdnlwZjBDdHRkazltM2xoLzlWNVl6elc4ZlhKU2NTdmVDUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGlFaHNwYnZHdWYzaWJxRWVaWVEvNGpSTFQyVVFuUFFuaFEwOFRaTi9hWExjUWlhbGN0R3E3aUw1Vkw5UG1TOGR5bUR5MUxRdlI0d3ZRU3ZTV2pXcWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NzMxODI2CWZpbGU6T2N0b01hY3JvXzMuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAp4a2ZXSmpvNnNGaE1KN21wbHdsclN1WnNxZUhpNG82VUFyQ2RRYU9wQ01VQ0g5RVhodVpLL0grR2Jidnk2cWl3RFBPbDNiYlB1Sm5CTFIvYm9yTU1Edz09Cg==",
       "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.0.0/OctoMacro_3.0.0_x64-setup.nsis.zip"
     }
   }
