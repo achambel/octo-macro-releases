@@ -1,11 +1,11 @@
 {
-  "version": "3.1.0",
-  "notes": "- Nova macro para o Geocall WFM - Baixa de Serviços",
-  "pub_date": "2024-05-23T12:16:00.000Z",
+  "version": "3.1.1",
+  "notes": "- Melhoria para macro de Baixa de Serviços",
+  "pub_date": "2024-05-24T13:34:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGg5cFJjRG5nM2xRaWd5ak1NV1BDOVMzaFFXVWNZMFJha2d2SEF1ZzRwK0lOS3hrdzU4ODlZU1ViMkZuTDFMdWsyVU9uckRpZjVGZkxkSEtwV1hSb0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2NDgwOTYxCWZpbGU6T2N0b01hY3JvXzMuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApnTUd5eVN3dXMydjJCeDdrZjhNbzVnYS9vWXRwTmVuK3UzK3JjZUMwaHFjb1dBcjNqaVVOSVNoYlUvYm9GRjNpYml4b3c2bm9ZdHNEV1RRREREbGhEQT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.1.0/OctoMacro_3.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHJwS0FxUjNBQUhnS3AvQ0FYZzhpa1FjN2ZvMGJUV212WHZ1aXViQTRtVzk2eHdCQ1B3ekJyTTRaZ2ZqWXRNOVhFT0hFRmRSclRaWlpJU25ORGowYmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2NTcyMDQzCWZpbGU6T2N0b01hY3JvXzMuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApSeWR2Ly81VTNhOFRQYXFNMFZUUDNPbXU2TVlDbXNQUTlEK2dob1N3d1hrSFo1ZTRuQnhURTNFaGpkb2ZZbXp1NHJya01uU29Gd2YyWllLQ3hPZ1ZBZz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.1.1/OctoMacro_3.1.1_x64-setup.nsis.zip"
     }
   }
 }
