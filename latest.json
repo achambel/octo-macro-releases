@@ -1,11 +1,11 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "notes": "- Melhoria para macro de Baixa de Serviços",
-  "pub_date": "2024-05-24T13:34:00.000Z",
+  "pub_date": "2024-05-25T15:41:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHJwS0FxUjNBQUhnS3AvQ0FYZzhpa1FjN2ZvMGJUV212WHZ1aXViQTRtVzk2eHdCQ1B3ekJyTTRaZ2ZqWXRNOVhFT0hFRmRSclRaWlpJU25ORGowYmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2NTcyMDQzCWZpbGU6T2N0b01hY3JvXzMuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApSeWR2Ly81VTNhOFRQYXFNMFZUUDNPbXU2TVlDbXNQUTlEK2dob1N3d1hrSFo1ZTRuQnhURTNFaGpkb2ZZbXp1NHJya01uU29Gd2YyWllLQ3hPZ1ZBZz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.1.1/OctoMacro_3.1.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHJ1MTdLcENRRUdsWmc1Sllub2E4UEhoNSszN1dVZlhKQmZLMDIydk5FNjcwM29rZnN4MXlBL0p0ZUx3eGFxdTdNR3UrWW5mSE5XU3V2Zi9lcndpUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2NjY2MDc5CWZpbGU6T2N0b01hY3JvXzMuMS4yX3g2NC1zZXR1cC5uc2lzLnppcApQSmhyTUVLdWtNTGZsVjVQZ01lTmZ2UFNzUlRJaG1DZ1NQVmlZdEpmSGI1eDNmZkpvcHFjaTQvZEFtYzFldzRwREkyNTRlaFI1TjZkRm9LTFNqZGtDdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.1.2/OctoMacro_3.1.2_x64-setup.nsis.zip"
     }
   }
 }
