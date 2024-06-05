@@ -1,11 +1,11 @@
 {
-  "version": "3.1.4",
-  "notes": "- Alteração na macro de Parâmetros de Cobrança",
-  "pub_date": "2024-06-03T11:00:00.000Z",
+  "version": "3.2.0",
+  "notes": "- Nova Macro: Geocall - Baixa Aplicar Fita Lacre\n- Nova Macro: Geocall - Baixa de OS como Não Executado (Sobra)",
+  "pub_date": "2024-06-05T22:40:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhNb3dPUGVkRXNjMEtoMFBDanJreUtNT2kxeVBJeTZmUlRkaEtzQng4N3pxdTdUcWNoNnZTc0g0dUJyV29COWYycDdJd1JMbGZHYXpZd2FhNjZqZEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NDI2ODI5CWZpbGU6T2N0b01hY3JvXzMuMS40X3g2NC1zZXR1cC5uc2lzLnppcApHSkNXbFM0YVBXUmpXVE9JemF2VEF6cE5sd1pubVlwL2xNSjd0blYwYUt6TVowQmZUalRIMGFjM0ZiUnpoVUh0ZVJoNEtrYzBmNnUzUjZLWi8xQ3FCdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.1.4/OctoMacro_3.1.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGpoN3JPV0R2WTFVNWZ6cW1IVDNVVVdGcjJTYUN1eUE5VlZnS2p5bGk1bkg2VEtTc0tWcEFNRloxVUtZRHEyNlBRa1IzaVljeGdTUlJSbmRHUzE3Y0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3NjQxNjMyCWZpbGU6T2N0b01hY3JvXzMuMi4wX3g2NC1zZXR1cC5uc2lzLnppcAoxMzBLOFU2bFRiY3RVSDNWOU1oYTd3TFpYYUNRcDduUDlueVU5djlZUDNCUUJtTVFTenBBb1p2bXB1ZEtGemZWWDBqeVlQUUp3TExyOUdMMEQzYjhEdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.0/OctoMacro_3.2.0_x64-setup.nsis.zip"
     }
   }
 }
