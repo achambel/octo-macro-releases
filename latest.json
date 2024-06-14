@@ -1,11 +1,11 @@
 {
-  "version": "3.2.2",
-  "notes": "- Inclusão de novo campo para macro de Nova Ligação de Esgoto",
-  "pub_date": "2024-06-07T20:23:00.000Z",
+  "version": "3.2.3",
+  "notes": "- Extração de leituras e consumos dos Painéis",
+  "pub_date": "2024-06-14T14:40:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGh0M2pXQytxb2hhRzNxdlU1RlR2MThXbDVwRmhSeGVkV0FXdE8vcmgyNVRlbERsZ3pDNzJhVzRhT011QUVlR2VuT0NwVGw1NWFWZDJMUVNTUGdneFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3ODA2MjAyCWZpbGU6T2N0b01hY3JvXzMuMi4yX3g2NC1zZXR1cC5uc2lzLnppcApoOVpjZS9lN2NJaXh1T3dmZWJva0VNQWxNZnV3UkZLLzBaMTRmbE9VU3lRMGVnbFhXeWxJVTM4cURLNyt2OXQxdkZBaXBhOE1pN09TemFOQ2dSQmpEUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.2/OctoMacro_3.2.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHBCTHdCY0FKcWRnYmt6TWt3d1N6VjZhUXlnN0xKNUM2Mk9UWjgwQW1qMG5nemdRTmV0S3BtZVllSEwzNk4xR1NxTVljZ2RDSGpEN1dKK0VxazVBVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MzkwNDM5CWZpbGU6T2N0b01hY3JvXzMuMi4zX3g2NC1zZXR1cC5uc2lzLnppcApKZHRtL3hXWmdsN1VCZkU3MUoxMHVobFVVRFlvS2crRXRnNWJndCsrWGV1TVNtdEVpUlJ4UjhzT2J3NWdQTC9iUVdQa0FSR1I3bW9oTmNqVVNMWG5EQT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.3/OctoMacro_3.2.3_x64-setup.nsis.zip"
     }
   }
 }
