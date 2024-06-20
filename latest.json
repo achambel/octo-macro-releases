@@ -1,11 +1,11 @@
 {
-  "version": "3.2.4",
-  "notes": "- Opção de data retroativa para Dados do Produto\n- Extração de Protesto dos Painéis(Extrato Cliente)\n- Separação da Codificação Sabesp em colunas para Painéis(Fornecimento)",
-  "pub_date": "2024-06-20T10:11:00.000Z",
+  "version": "3.3.1",
+  "notes": "- Geocall(WFM): Baixa Caixa UMA",
+  "pub_date": "2024-06-20T16:08:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhiNGZSMnp2VExONDZjVE5mdlc3Y2RKT3N1cW04TlpMeDFFTC93NWJ6SWFpTUovVG8rbFpraXY1d2MwbFM2MnhBTTM2WDB0ZEhhQ3lyazBmRnlkeGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4ODkyNzE4CWZpbGU6T2N0b01hY3JvXzMuMi40X3g2NC1zZXR1cC5uc2lzLnppcApGQjJCU1FsSFViYUlncjIyVitiWW9SL3lyTjA2NjYrQjI0bmY3bzhoUHpWZHIyejBuTkIwOUxlMGZQYmdyZTJDRitvaG1ZTmYvcUhHaXRXMi90ek9EUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.4/OctoMacro_3.2.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5BdS82ZmYrdytNQ2N5ZkVKSksxdVJ1cFlicHNqYUpBa0ZYL3lodVJTZFpzeFRpdGMrREloVHhOdHNyUHJEMDJkcHVxMHkwcE1XSHcwQ1BsaWRrMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4OTE0MTM0CWZpbGU6T2N0b01hY3JvXzMuMy4xX3g2NC1zZXR1cC5uc2lzLnppcAowOTUzb1E0aGVRVWtXYVpTODZlQURMc3NEblVzTDBwcmgzRkJGcTFZdzl0K09Razk0MlQzMEg1ODdsNm1aRkh1VG1MTVEwcW9tZXJZTWwyQThYSEZEUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.3.1/OctoMacro_3.3.1_x64-setup.nsis.zip"
     }
   }
 }
