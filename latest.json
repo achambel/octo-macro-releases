@@ -1,11 +1,11 @@
 {
-  "version": "3.2.3",
-  "notes": "- Extração de leituras e consumos dos Painéis",
-  "pub_date": "2024-06-14T14:40:00.000Z",
+  "version": "3.2.4",
+  "notes": "- Opção de data retroativa para Dados do Produto\n- Extração de Protesto dos Painéis(Extrato Cliente)\n- Separação da Codificação Sabesp em colunas para Painéis(Fornecimento)",
+  "pub_date": "2024-06-20T10:11:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHBCTHdCY0FKcWRnYmt6TWt3d1N6VjZhUXlnN0xKNUM2Mk9UWjgwQW1qMG5nemdRTmV0S3BtZVllSEwzNk4xR1NxTVljZ2RDSGpEN1dKK0VxazVBVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MzkwNDM5CWZpbGU6T2N0b01hY3JvXzMuMi4zX3g2NC1zZXR1cC5uc2lzLnppcApKZHRtL3hXWmdsN1VCZkU3MUoxMHVobFVVRFlvS2crRXRnNWJndCsrWGV1TVNtdEVpUlJ4UjhzT2J3NWdQTC9iUVdQa0FSR1I3bW9oTmNqVVNMWG5EQT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.3/OctoMacro_3.2.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhiNGZSMnp2VExONDZjVE5mdlc3Y2RKT3N1cW04TlpMeDFFTC93NWJ6SWFpTUovVG8rbFpraXY1d2MwbFM2MnhBTTM2WDB0ZEhhQ3lyazBmRnlkeGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4ODkyNzE4CWZpbGU6T2N0b01hY3JvXzMuMi40X3g2NC1zZXR1cC5uc2lzLnppcApGQjJCU1FsSFViYUlncjIyVitiWW9SL3lyTjA2NjYrQjI0bmY3bzhoUHpWZHIyejBuTkIwOUxlMGZQYmdyZTJDRitvaG1ZTmYvcUhHaXRXMi90ek9EUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.2.4/OctoMacro_3.2.4_x64-setup.nsis.zip"
     }
   }
 }
