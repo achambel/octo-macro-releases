@@ -1,11 +1,11 @@
 {
-  "version": "3.3.1",
-  "notes": "- Geocall(WFM): Baixa Caixa UMA",
-  "pub_date": "2024-06-20T16:08:00.000Z",
+  "version": "3.3.2",
+  "notes": "- Novo método de login para o Neta.",
+  "pub_date": "2024-06-24T16:49:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5BdS82ZmYrdytNQ2N5ZkVKSksxdVJ1cFlicHNqYUpBa0ZYL3lodVJTZFpzeFRpdGMrREloVHhOdHNyUHJEMDJkcHVxMHkwcE1XSHcwQ1BsaWRrMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4OTE0MTM0CWZpbGU6T2N0b01hY3JvXzMuMy4xX3g2NC1zZXR1cC5uc2lzLnppcAowOTUzb1E0aGVRVWtXYVpTODZlQURMc3NEblVzTDBwcmgzRkJGcTFZdzl0K09Razk0MlQzMEg1ODdsNm1aRkh1VG1MTVEwcW9tZXJZTWwyQThYSEZEUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.3.1/OctoMacro_3.3.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHVXZmhTcjhpNzlFRW8vRkhLQjVYK1hrcjkwOFlKc1R6MDAyaHl5emplVnVyazhyWlZBd1ZZUnRoWURNWXpjSjMxdWpCeHpvSjlRWkxuRUs4WXFDTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5MjYyMTgxCWZpbGU6T2N0b01hY3JvXzMuMy4yX3g2NC1zZXR1cC5uc2lzLnppcApXUUNOL0lTWkZaQ25OZ2h6QnJ0dHVEQWcyUldrVDU5YUVaYjNMUTlZTGFSREpmdG9tU2U4VklhYU5nbWRoRnRxWnhlTURlV2JZMlQ5ZWlTTCtmRWpEZz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.3.2/OctoMacro_3.3.2_x64-setup.nsis.zip"
     }
   }
 }
