@@ -1,11 +1,11 @@
 {
-  "version": "3.3.2",
-  "notes": "- Novo método de login para o Neta.",
-  "pub_date": "2024-06-24T16:49:00.000Z",
+  "version": "3.4.1",
+  "notes": "- Extração de dados dos Representantes Legais",
+  "pub_date": "2024-06-25T18:57:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHVXZmhTcjhpNzlFRW8vRkhLQjVYK1hrcjkwOFlKc1R6MDAyaHl5emplVnVyazhyWlZBd1ZZUnRoWURNWXpjSjMxdWpCeHpvSjlRWkxuRUs4WXFDTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5MjYyMTgxCWZpbGU6T2N0b01hY3JvXzMuMy4yX3g2NC1zZXR1cC5uc2lzLnppcApXUUNOL0lTWkZaQ25OZ2h6QnJ0dHVEQWcyUldrVDU5YUVaYjNMUTlZTGFSREpmdG9tU2U4VklhYU5nbWRoRnRxWnhlTURlV2JZMlQ5ZWlTTCtmRWpEZz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.3.2/OctoMacro_3.3.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5BUE10eHZhaUxtVWNaRXFscm9NSlM0YXpJejBIWEh4MUVzaTdFaFVYVzk4WjJOdXMvM3pxOG5RelNHeWdVNUNPZ2R0Y0lsV0s1a1YzNm94UXZKbXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5MzU2Mjc3CWZpbGU6T2N0b01hY3JvXzMuNC4xX3g2NC1zZXR1cC5uc2lzLnppcAo3cTcwOWtzY2h6M1BuTFBnbTFMOHNQcC9xa2w2OEpOYWgyQmdxREtWWFR3dmNQRENCYnl5RFd1cFZEaDMxYmUwZ2hvS096T09GRW1BQTV2SmdKUnBEUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.4.1/OctoMacro_3.4.1_x64-setup.nsis.zip"
     }
   }
 }
