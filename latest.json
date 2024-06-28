@@ -1,11 +1,11 @@
 {
-  "version": "3.4.1",
-  "notes": "- Extração de dados dos Representantes Legais",
-  "pub_date": "2024-06-25T18:57:00.000Z",
+  "version": "3.4.2",
+  "notes": "Adicionada opcao para SitA/SitE na macro de Dados do Produto",
+  "pub_date": "2024-06-28T12:08:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5BUE10eHZhaUxtVWNaRXFscm9NSlM0YXpJejBIWEh4MUVzaTdFaFVYVzk4WjJOdXMvM3pxOG5RelNHeWdVNUNPZ2R0Y0lsV0s1a1YzNm94UXZKbXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5MzU2Mjc3CWZpbGU6T2N0b01hY3JvXzMuNC4xX3g2NC1zZXR1cC5uc2lzLnppcAo3cTcwOWtzY2h6M1BuTFBnbTFMOHNQcC9xa2w2OEpOYWgyQmdxREtWWFR3dmNQRENCYnl5RFd1cFZEaDMxYmUwZ2hvS096T09GRW1BQTV2SmdKUnBEUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.4.1/OctoMacro_3.4.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5WUWpReCtvTkZFSVEyMmpBdVo4b3duZkhnRnA1UVFXclVXT2taM2hFa2w3VmlMOGFheEdtR25nMkJIL3ZsMmhYNXFWU1JVMnlmdlFFSm0yTExGcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTkwODgwCWZpbGU6T2N0b01hY3JvXzMuNC4yX3g2NC1zZXR1cC5uc2lzLnppcApPUFM0cWYwNXBlUkR0ZVpOZzNUc0s3eDU1UmFpdGdka2VVVUxxSjQ0YUhxdWpRSkNsQ1dPd0Y5MVkwM1hoMVJmaTgwMXlVZjMrbm0ycVIzUHJqeUlCUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.4.2/OctoMacro_3.4.2_x64-setup.nsis.zip"
     }
   }
 }
