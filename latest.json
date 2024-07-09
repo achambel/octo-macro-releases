@@ -1,11 +1,11 @@
 {
-  "version": "3.4.2",
-  "notes": "Adicionada opcao para SitA/SitE na macro de Dados do Produto",
-  "pub_date": "2024-06-28T12:08:00.000Z",
+  "version": "3.5.1",
+  "notes": "- Nova macro para extração das Ocorrencias apontadas pelo TACE\n- Adicionado detalhes do cálculo para Painéis: extração Faturas",
+  "pub_date": "2024-07-09T18:48:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZG5WUWpReCtvTkZFSVEyMmpBdVo4b3duZkhnRnA1UVFXclVXT2taM2hFa2w3VmlMOGFheEdtR25nMkJIL3ZsMmhYNXFWU1JVMnlmdlFFSm0yTExGcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTkwODgwCWZpbGU6T2N0b01hY3JvXzMuNC4yX3g2NC1zZXR1cC5uc2lzLnppcApPUFM0cWYwNXBlUkR0ZVpOZzNUc0s3eDU1UmFpdGdka2VVVUxxSjQ0YUhxdWpRSkNsQ1dPd0Y5MVkwM1hoMVJmaTgwMXlVZjMrbm0ycVIzUHJqeUlCUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.4.2/OctoMacro_3.4.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhYQTRkMHF2YVBwcVY0YUFETlJ5U3E0aUFNYm9YL0lYVXZ1blp4ampLaTd0UnFkbXhITThmR09mU0k1czhYM1EycEp5cjZHcHZldm9DTjhnRVplT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNTY1MjkxCWZpbGU6T2N0b01hY3JvXzMuNS4xX3g2NC1zZXR1cC5uc2lzLnppcAowT3VQUG1KbVhYbVA0RHNBc0pUcXRicmFzNzZPbThBcm5MS1NZVmhCenZNMFl1YkFUajBHZzZsditvZTk0OGF0Nys0dncvMTZTUGFDQWdTK3Fhc0pDdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.1/OctoMacro_3.5.1_x64-setup.nsis.zip"
     }
   }
 }
