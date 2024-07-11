@@ -1,11 +1,11 @@
 {
-  "version": "3.5.1",
+  "version": "3.5.2",
   "notes": "- Nova macro para extração das Ocorrencias apontadas pelo TACE\n- Adicionado detalhes do cálculo para Painéis: extração Faturas",
-  "pub_date": "2024-07-09T18:48:00.000Z",
+  "pub_date": "2024-07-11T17:09:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhYQTRkMHF2YVBwcVY0YUFETlJ5U3E0aUFNYm9YL0lYVXZ1blp4ampLaTd0UnFkbXhITThmR09mU0k1czhYM1EycEp5cjZHcHZldm9DTjhnRVplT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNTY1MjkxCWZpbGU6T2N0b01hY3JvXzMuNS4xX3g2NC1zZXR1cC5uc2lzLnppcAowT3VQUG1KbVhYbVA0RHNBc0pUcXRicmFzNzZPbThBcm5MS1NZVmhCenZNMFl1YkFUajBHZzZsditvZTk0OGF0Nys0dncvMTZTUGFDQWdTK3Fhc0pDdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.1/OctoMacro_3.5.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGx3U21Kek5wYUVSYmhlUGtvaDFzY0NsZnM4Nm1iWjA2bG1Kc21CdG5FVnN6UnRRMk1JUlp2bEFlYzBWZjAybnQrL0xLcm9Sa0hady83Z1BPOFc0eEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNzMyMTkyCWZpbGU6T2N0b01hY3JvXzMuNS4yX3g2NC1zZXR1cC5uc2lzLnppcApKeGxLbSsyWG1QNFlzN0lsVEVTbnZTZ2ZMelhZOWRUZ0dSdzFJUS9XcTJaYWpLbHdrb0lCRy8xbzVBbVZDbFJ5WU1hdWxIZkdEOUd5YWVsS3lONzRDZz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.2/OctoMacro_3.5.2_x64-setup.nsis.zip"
     }
   }
 }
