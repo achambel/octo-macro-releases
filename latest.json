@@ -1,11 +1,11 @@
 {
-  "version": "3.5.3",
-  "notes": "- Melhorias detalhes do cálculo para Painéis: extração Faturas",
-  "pub_date": "2024-07-16T11:32:00.000Z",
+  "version": "3.5.4",
+  "notes": "- Remoção de macros em lote",
+  "pub_date": "2024-07-19T11:49:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHE3a3dXWGNTZEgvS0wwQllTNzZVRis5RHFhR0ROdjFDNnkwb2E4dW9kd3RIN3RpaytyNzl2M2NvbmsrVkxSOEtmWWdRbWsyUnE3QWE4ek9xVjB2WkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMTQzOTU0CWZpbGU6T2N0b01hY3JvXzMuNS4zX3g2NC1zZXR1cC5uc2lzLnppcApzUC9jNzhGYUdDODNrZUVsNjdLSGJwUVIyL1F0aC9kVnFPR3VHT2tGTlBUNmRnUU9uU212VmFNVFJ1dHM2TEpuTy9xdkFTc1Q1Z0lya3dYYWpSa1NCdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.3/OctoMacro_3.5.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGk0VEpIVHR2TzFKQUR5Nm9YTDlGMXd4TWVzbGtSK0syQy9KSzkzSnA3bEIvNCtsR3hNbWd3WVN4bWJCMERsSnZtN0JCNSt0SHlWK3cvd3JkY0R3QVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxNDA0MTQyCWZpbGU6T2N0b01hY3JvXzMuNS40X3g2NC1zZXR1cC5uc2lzLnppcApmdGNUVDhzT3dVMC8zRnQ4aCtJdWFNZUZFaFJhTEtNQ21TVjBSQmRVQTBEOSt5T1N2S0NNODhvNnpDb1hSbCtpeitCNkdEQVVia0RJUDd5ejhxaXBCUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.4/OctoMacro_3.5.4_x64-setup.nsis.zip"
     }
   }
 }
