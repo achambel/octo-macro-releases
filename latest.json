@@ -1,11 +1,11 @@
 {
-  "version": "3.5.4",
-  "notes": "- Remoção de macros em lote",
-  "pub_date": "2024-07-19T11:49:00.000Z",
+  "version": "3.5.5",
+  "notes": "Geocall - ajustes no Planejamento Diario",
+  "pub_date": "2024-07-30T11:13:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGk0VEpIVHR2TzFKQUR5Nm9YTDlGMXd4TWVzbGtSK0syQy9KSzkzSnA3bEIvNCtsR3hNbWd3WVN4bWJCMERsSnZtN0JCNSt0SHlWK3cvd3JkY0R3QVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxNDA0MTQyCWZpbGU6T2N0b01hY3JvXzMuNS40X3g2NC1zZXR1cC5uc2lzLnppcApmdGNUVDhzT3dVMC8zRnQ4aCtJdWFNZUZFaFJhTEtNQ21TVjBSQmRVQTBEOSt5T1N2S0NNODhvNnpDb1hSbCtpeitCNkdEQVVia0RJUDd5ejhxaXBCUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.4/OctoMacro_3.5.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGpNYmN0REorbGxCL0pQUW9uaUlhQW9EWFl5Q09PU2QrVlh6Tnd0K1pyczFadTYyNTVydW92dm05L1ZpTGYzN1VIMGdGTDV6VkJoRmJIQ3JDb2syeHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIyMzUyNDA5CWZpbGU6T2N0b01hY3JvXzMuNS41X3g2NC1zZXR1cC5uc2lzLnppcAovdzJrRkt4M2pPQkQwdk1jQWFiaVVteWJ4UmdHeEFNengvRWtnVG1qSEF5ZmVyZ3d1cklTakpvUFBwbGk3YlNrQ0huMGIyYnJleXdpUzRvNEdRcEhCZz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.5/OctoMacro_3.5.5_x64-setup.nsis.zip"
     }
   }
 }
