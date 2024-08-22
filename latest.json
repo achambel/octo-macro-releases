@@ -1,11 +1,11 @@
 {
-  "version": "3.5.5",
-  "notes": "Geocall - ajustes no Planejamento Diario",
-  "pub_date": "2024-07-30T11:13:00.000Z",
+  "version": "3.6.0",
+  "notes": "- Abertura processo de Irregularidade\n- Cancelamento de Processo\n- Extração Histórico de Não Leitura, inclusive com fotos do local.",
+  "pub_date": "2024-08-22T14:55:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGpNYmN0REorbGxCL0pQUW9uaUlhQW9EWFl5Q09PU2QrVlh6Tnd0K1pyczFadTYyNTVydW92dm05L1ZpTGYzN1VIMGdGTDV6VkJoRmJIQ3JDb2syeHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIyMzUyNDA5CWZpbGU6T2N0b01hY3JvXzMuNS41X3g2NC1zZXR1cC5uc2lzLnppcAovdzJrRkt4M2pPQkQwdk1jQWFiaVVteWJ4UmdHeEFNengvRWtnVG1qSEF5ZmVyZ3d1cklTakpvUFBwbGk3YlNrQ0huMGIyYnJleXdpUzRvNEdRcEhCZz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.5.5/OctoMacro_3.5.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHA3ZmlpMVkyQUZ1VnJCQ3VNTUplUCtBcnpqNEVFU0ZlZ0JSTTZJKy9BL2MwOXM1WEdEUjAwcFhuYVhHb09VNkh2NFFpM2JlelRHcXI0ZTYrcDdWUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MzUyOTQ1CWZpbGU6T2N0b01hY3JvXzMuNi4wX3g2NC1zZXR1cC5uc2lzLnppcAprVUJWbXM2MDNkTmNzU2IvRjdaUGVmakJyQW12eUlkMmZVRzV2TEppUHNyV2haRE5LbStINVc5WThSaUJQWnpkVXV2S2d2NTJnNm0wWXI1YXczSTdDQT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.6.0/OctoMacro_3.6.0_x64-setup.nsis.zip"
     }
   }
 }
