@@ -1,11 +1,11 @@
 {
-  "version": "3.6.0",
-  "notes": "- Abertura processo de Irregularidade\n- Cancelamento de Processo\n- Extração Histórico de Não Leitura, inclusive com fotos do local.",
-  "pub_date": "2024-08-22T14:55:00.000Z",
+  "version": "3.6.1",
+  "notes": "Corrigida extração de dados de painéis",
+  "pub_date": "2024-08-23T14:20:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHA3ZmlpMVkyQUZ1VnJCQ3VNTUplUCtBcnpqNEVFU0ZlZ0JSTTZJKy9BL2MwOXM1WEdEUjAwcFhuYVhHb09VNkh2NFFpM2JlelRHcXI0ZTYrcDdWUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MzUyOTQ1CWZpbGU6T2N0b01hY3JvXzMuNi4wX3g2NC1zZXR1cC5uc2lzLnppcAprVUJWbXM2MDNkTmNzU2IvRjdaUGVmakJyQW12eUlkMmZVRzV2TEppUHNyV2haRE5LbStINVc5WThSaUJQWnpkVXV2S2d2NTJnNm0wWXI1YXczSTdDQT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.6.0/OctoMacro_3.6.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHF6bUFPL3NWMHpmZW1TcTRoMERtWlBmYm9XK3hRK3ZzZlNmZFA5MjdHa3ZldFQyMFVwc25uUldVYjdreEpRZWVmVE9kNDViNk1sSys3WE1tZzIzQXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0NDM3MjM2CWZpbGU6T2N0b01hY3JvXzMuNi4xX3g2NC1zZXR1cC5uc2lzLnppcAp4MFgwdnBkbVhJVmVpRmdVTmp3YStuL3NBbGJuUjhPVlJYcWQ5ZzVmd2hORmpFN3k3aFBLRURyR1padEVnaCtKSFZhaElMR00zSllZZ3k3WmdzSVpCdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.6.1/OctoMacro_3.6.1_x64-setup.nsis.zip"
     }
   }
 }
