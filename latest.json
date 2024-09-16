@@ -1,11 +1,11 @@
 {
-  "version": "3.6.2",
-  "notes": "2a. Via de Conta: mudanças após alteração no Neta no formato do arquivo de download.",
-  "pub_date": "2024-09-10T13:17:00.000Z",
+  "version": "3.6.3",
+  "notes": "- Cancelar Processo/OS sem restrição de status x TSS\n- Extrair dados de Área de Risco\n- Elaboração de cobrança com opção para Área de Risco",
+  "pub_date": "2024-09-16T13:43:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHNzaXA2RGxQVjJ6bHMrQktGZitPaTJSdnRNK0N4T0VFQktpVHJ0c2tWQ3JmWVluN1laM2kwZlNBbUp2emlPLzhUY0FBTWVBNDYvVkwxeElqMm5tVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1OTg4NjU1CWZpbGU6T2N0b01hY3JvXzMuNi4yX3g2NC1zZXR1cC5uc2lzLnppcApUVXBUL2RmWVRQT0JiWGo5am5BT2szd0JVbGdPQ29NNmlZL1ZScitwNmZZRTlubjhya0lUVm1RSS9xY2diL01acmtWaUZJRFR0YU5GQ3ZpOTBrTGNEdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.6.2/OctoMacro_3.6.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHF3WjhjNExPZXVGdEh1NzJDUXdwS2NLTHdzVVRJSU5DWGZLOHQ5S0VPT1pZZTJiOTBHcFNFY0tVRC9LMFdjcVJXb0kxYmlkV2hjVldRQkwzd0loRndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2NTA4NjMwCWZpbGU6T2N0b01hY3JvXzMuNi4zX3g2NC1zZXR1cC5uc2lzLnppcApzQTdHT1JpSkxUem1YWTliUkxKMG9vdGl1d1Z6dnl6b2VkTHI2S2d5bTIwd1FFRDlkb00wTHJtR01mNzNlSXQzSzdxbUJnb01PWnBpLzFiMVljTjZBdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.6.3/OctoMacro_3.6.3_x64-setup.nsis.zip"
     }
   }
 }
