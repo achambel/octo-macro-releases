@@ -1,11 +1,11 @@
 {
-  "version": "3.7.0",
-  "notes": "- Nova macro para envio de Comunicado ao Cliente(EMAIL/SMS)",
-  "pub_date": "2024-09-25T11:26:00.000Z",
+  "version": "3.8.0",
+  "notes": "- Nova macro para Gerar Processo Coligado",
+  "pub_date": "2024-09-27T16:34:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHE4Sk95SzBhWGt1SXl4Szc1ZEVvY2ZMRWcyZHZyL3gxT0RVb1NhSkd1b0IxSkJCcWdYZkp3eFdxRTNKaGhjZHpocFE4STBYYWNuQ3lMc2Y3ZjVIWkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3Mjc4MDE4CWZpbGU6T2N0b01hY3JvXzMuNy4wX3g2NC1zZXR1cC5uc2lzLnppcAp5dDBlaThQcEk3aUhiK3ZaZHR0dEVOdEptcDFldXpPM1Z2TlNDMHUwV2lrZlJQMUFqbHdzQmkrODVWK2QwSm1TSXI2UmdMeUFQbTdDai9MT24yY3lDdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.7.0/OctoMacro_3.7.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHFEYTh4ekNLVFkvTXRUejVtVmlHM0ZYeUJuVHlkdlREaFpYTTJwS2tmSmw1NnNCUzdiTmhpRUh3Tmc3S2tsNVlMSy9jdlpVZDYrVTFzSXpXUloyc1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NDY5MjgxCWZpbGU6T2N0b01hY3JvXzMuOC4wX3g2NC1zZXR1cC5uc2lzLnppcApYUWlUekxEbEhCdG5CU0JoTUJHQVZyS3J5QTBsQzIyOERHdnp5UU81aWVyLzVwK0YrdkNDeWpjR3FrOWdSZGYrNmc4cTljdW9ZOSsyNERldGMwUDZBdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.0/OctoMacro_3.8.0_x64-setup.nsis.zip"
     }
   }
 }
