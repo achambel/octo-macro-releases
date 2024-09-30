@@ -1,11 +1,11 @@
 {
-  "version": "3.8.0",
-  "notes": "- Nova macro para Gerar Processo Coligado",
-  "pub_date": "2024-09-27T16:34:00.000Z",
+  "version": "3.8.1",
+  "notes": "2a. via de Conta: adicionada opção para salvar faturas sob mesmo diretório pai.",
+  "pub_date": "2024-09-30T09:46:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHFEYTh4ekNLVFkvTXRUejVtVmlHM0ZYeUJuVHlkdlREaFpYTTJwS2tmSmw1NnNCUzdiTmhpRUh3Tmc3S2tsNVlMSy9jdlpVZDYrVTFzSXpXUloyc1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NDY5MjgxCWZpbGU6T2N0b01hY3JvXzMuOC4wX3g2NC1zZXR1cC5uc2lzLnppcApYUWlUekxEbEhCdG5CU0JoTUJHQVZyS3J5QTBsQzIyOERHdnp5UU81aWVyLzVwK0YrdkNDeWpjR3FrOWdSZGYrNmc4cTljdW9ZOSsyNERldGMwUDZBdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.0/OctoMacro_3.8.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGhDY1JVOEhlL2NjY0g4bGYrVlc1YStja0FiUjJSYUplaFlNWXQ5Sjg2bDI5RmhZQ2ZUUWt6MEtJeTZ3SUI2NHh3cXpBRUpOVS9BeXN1U0VnOWhsV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NzAzODIwCWZpbGU6T2N0b01hY3JvXzMuOC4xX3g2NC1zZXR1cC5uc2lzLnppcApneUNXb1JiZjYrWjhIMW5zWGZtdmRFS1dONGp2ZGlZenJjOWY5OFRtNjZhbHI1T1Y2cktxeFcyNzRlNklHK2xyUDNQRnNEdXlMMm9wVHpGKzd0L1FEUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.1/OctoMacro_3.8.1_x64-setup.nsis.zip"
     }
   }
 }
