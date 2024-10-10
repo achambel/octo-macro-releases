@@ -1,11 +1,11 @@
 {
-  "version": "3.8.2",
-  "notes": "***Novas macros para Gestão de Inativas***\n- Encerrar Processo\n- Excluir PDE\n- Gerar Processo Coligado",
-  "pub_date": "2024-10-04T11:49:00.000Z",
+  "version": "3.8.3",
+  "notes": "- Adicionada opção para Nova Ligação Esgoto: Projeto Esgoto\n- Adicionada opção RESUPRESSÃO para Gestão de Inativas\n- Dados do Sujeito: confirmação das mensagens de cadastro desatualizado.",
+  "pub_date": "2024-10-10T13:11:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHEwOVZEdkNUZUNoVGR0YlFldTE0aGtNZ0I2VGpzYStiR3NNYW5GR2lYZDB3NUVzMjhEb200cWpsaU1YT0xXa2lyRmFRUWxpWnJOODJXVVFVNm1POWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MDU2OTg1CWZpbGU6T2N0b01hY3JvXzMuOC4yX3g2NC1zZXR1cC5uc2lzLnppcApYYmdqZ3lIRkQ5c1pxTFNlQ1RiODJ2S0d0R0NQZjh0cGRSelZiMWlGMlFlYjBnVnIyODRhZTBxc2JidmVvbHBlOHMzaHQ3czJLTVdrcWVoZCtCWkJCUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.2/OctoMacro_3.8.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHNZMjd6aC9IUkg4M2dlR3Vlb2dpL0E0cFd3dkhHYmNVM2h3cEFuR1pabU84Rk91bGpaRzJqSERLS2dpbFVYMllIL1VUREIzSDd5RmdhcHhGY1dZMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTgwMzE4CWZpbGU6T2N0b01hY3JvXzMuOC4zX3g2NC1zZXR1cC5uc2lzLnppcApHMDByK05sbGdUUnRuTyt6Nk5lUldYSnJCSWNvc1N5cjRtdC9NYnVJd3Z4OFcvY1gvNUt4b3NUclJYaHdNcUpqbzJTdHBlNzhkZ1FJTzBMRkZNQzBBdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.3/OctoMacro_3.8.3_x64-setup.nsis.zip"
     }
   }
 }
