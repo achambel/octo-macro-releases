@@ -1,11 +1,11 @@
 {
-  "version": "3.8.4",
-  "notes": "- Adicionada opção para Nova Ligação Esgoto: Projeto Esgoto\n- Adicionada opção RESUPRESSÃO para Gestão de Inativas\n- Dados do Sujeito: confirmação das mensagens de cadastro desatualizado.",
-  "pub_date": "2024-10-11T13:53:00.000Z",
+  "version": "3.8.5",
+  "notes": "- Melhorias de performance e novo status: Preparando execução",
+  "pub_date": "2024-10-15T17:12:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGlHdTU5eU81dVhuM2FBYlY3Sng5VEt0YUVUVFdlK1VpVGtVZVlzK2Q2V0djREY2V1loOXk0bStWWHFsK1U0VEdYZU1tSmlHWlNENDhFY3VzN1NRRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NjY5MjA2CWZpbGU6T2N0b01hY3JvXzMuOC40X3g2NC1zZXR1cC5uc2lzLnppcApjd2ZUalduZzF2dTE4T3hiOCtlNUtBUjRsZ0lQWmo1YnVpZXROakNwcTIrZUkzQlhNOS80ZGRYa1BSSTZvcnZmSmQydlRPNTI0WDFONXYyUW90MUVEQT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.4/OctoMacro_3.8.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGsxSWsyQ3YxazhrQzcraGlKTnFCdHJmb3BpVlQ3RkpVQXFmaitVa2Q2eS9Vc3grekc4U0RzZ1FSVm9OWWFCajZMSmRCRGF0UFl3dVdVcXNacDBIa1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MDI2NzI1CWZpbGU6T2N0b01hY3JvXzMuOC41X3g2NC1zZXR1cC5uc2lzLnppcApVNHozVERSOU05bzMyVE81MEZCQnNuQ01YVTI5VG5zQXY2dVFJcUFLYXFPSitpUVRYNnBhbUFLVnhsQlMzUWFmRENIbzR3WDRJV3NKdUVtZmxkVElBdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.5/OctoMacro_3.8.5_x64-setup.nsis.zip"
     }
   }
 }
