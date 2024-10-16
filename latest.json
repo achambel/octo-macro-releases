@@ -1,11 +1,11 @@
 {
-  "version": "3.8.5",
-  "notes": "- Melhorias de performance e novo status: Preparando execução",
-  "pub_date": "2024-10-15T17:12:00.000Z",
+  "version": "3.8.6",
+  "notes": "- Melhorias no instalador.",
+  "pub_date": "2024-10-16T12:54:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGsxSWsyQ3YxazhrQzcraGlKTnFCdHJmb3BpVlQ3RkpVQXFmaitVa2Q2eS9Vc3grekc4U0RzZ1FSVm9OWWFCajZMSmRCRGF0UFl3dVdVcXNacDBIa1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MDI2NzI1CWZpbGU6T2N0b01hY3JvXzMuOC41X3g2NC1zZXR1cC5uc2lzLnppcApVNHozVERSOU05bzMyVE81MEZCQnNuQ01YVTI5VG5zQXY2dVFJcUFLYXFPSitpUVRYNnBhbUFLVnhsQlMzUWFmRENIbzR3WDRJV3NKdUVtZmxkVElBdz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.5/OctoMacro_3.8.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHZmcHhQc1ZLa3VuR3hROUxNZkxnZFFvZU1QeHRxYmI4QUlvNTVqVFE3dkprdmRlcXVYS1J1VUNyYno4YkREN1Zxa2FBQmZDdUpKei96QUJadFNMVkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MDk3NjkzCWZpbGU6T2N0b01hY3JvXzMuOC42X3g2NC1zZXR1cC5uc2lzLnppcApzYkQzeG5JVE8vdlk1eWkxeXNiZ09aT2t5NUhUR3F2RHp6c3I4cHQwTzFyTFcvd3YxU1lKSEdDYTh2QnRxNmQzNUUwTkhsSWVVSWl5R2ZHNmRMeS9EQT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.6/OctoMacro_3.8.6_x64-setup.nsis.zip"
     }
   }
 }
