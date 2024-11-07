@@ -1,11 +1,11 @@
 {
-  "version": "3.8.7",
-  "notes": "Novo endereço do Net@",
-  "pub_date": "2024-10-30T20:59:00.000Z",
+  "version": "3.8.8",
+  "notes": "Novo endereço para Geocall",
+  "pub_date": "2024-11-07T11:38:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHFaOTZGYnJXcWpoSTFQNG5HQ0VZMUs2cVphNmcwbmc4SHVka3pGMFgxR2tjZ3VUYXBmU3Nac0VLaVVWZGdqMzJweGU1Sll5QUdkaTNORWRlbzVHVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzMyNzY3CWZpbGU6T2N0b01hY3JvXzMuOC43X3g2NC1zZXR1cC5uc2lzLnppcApyb1U2N2hOUHE0Y2J0MEdVU0tUM2RwWGZYcjZMdDFid1BYc1N3WHFQNWNlWE0rMWNDbnU1ZU40MEdpYWcxWUVwa0xoZmJSek9LZ2xrYXlJY2w0WTlBZz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.7/OctoMacro_3.8.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHVESlArbUovVTczL3gyTVBZSG9BTmphN1FXd2lKUU85RDNnK1JYNzNneDUyb1JFVjJPcUZKanBZbTJiUmF6V2pISUVtUU9iNytLYzczVGQ5RG5CR2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwOTkwMzEwCWZpbGU6T2N0b01hY3JvXzMuOC44X3g2NC1zZXR1cC5uc2lzLnppcAoxUTFJZWFpcWw4SDY2bzlaMFlxTlVyczBqNFlQZkZMK2tHV2xsVitZYU5CSG1KSEwxSzYrUGR6S1RVL2F5MW56S1lmaDFCUTJHUW9wY0Vxb0d6QmVEUT09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.8/OctoMacro_3.8.8_x64-setup.nsis.zip"
     }
   }
 }
