@@ -1,11 +1,11 @@
 {
-  "version": "3.8.8",
-  "notes": "Novo endereço para Geocall",
-  "pub_date": "2024-11-07T11:38:00.000Z",
+  "version": "3.9.0",
+  "notes": "Adicionado 1+ na hora fim de execucao na macro de encerrar servicos.",
+  "pub_date": "2025-05-07T18:28:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZHVESlArbUovVTczL3gyTVBZSG9BTmphN1FXd2lKUU85RDNnK1JYNzNneDUyb1JFVjJPcUZKanBZbTJiUmF6V2pISUVtUU9iNytLYzczVGQ5RG5CR2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwOTkwMzEwCWZpbGU6T2N0b01hY3JvXzMuOC44X3g2NC1zZXR1cC5uc2lzLnppcAoxUTFJZWFpcWw4SDY2bzlaMFlxTlVyczBqNFlQZkZMK2tHV2xsVitZYU5CSG1KSEwxSzYrUGR6S1RVL2F5MW56S1lmaDFCUTJHUW9wY0Vxb0d6QmVEUT09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.8.8/OctoMacro_3.8.8_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGxVcnB3YVdnM0VnWW9tQk9zbWgvUCtSM3JlaERkVmwrNlk4dGhBc3ZGOTNFWGFaYnVBbGxaTjJBQnZLbG0xVnI5K2V4L2Z1anZaMnNtSldJbUJ5b1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NjU2OTA4CWZpbGU6T2N0b01hY3JvXzMuOS4wX3g2NC1zZXR1cC5uc2lzLnppcAp6MWRyWGtRYmRRRGtWTXJ4djZQVDF5SnM1aHFVeTlwZWZkUkZVZ0xPSkEwS2JBdE5uUnJ2OWZNZ25UTHc5V1pZTnFuL0hkVEMwK0Z5TXZnSy9ndHREZz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.9.0/OctoMacro_3.9.0_x64-setup.nsis.zip"
     }
   }
 }
