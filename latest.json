@@ -1,11 +1,11 @@
 {
-  "version": "3.9.0",
-  "notes": "Adicionado 1+ na hora fim de execucao na macro de encerrar servicos.",
-  "pub_date": "2025-05-07T18:28:00.000Z",
+  "version": "3.9.1",
+  "notes": "Adicionado 1min na hora fim de execucao na macro de encerrar servicos.",
+  "pub_date": "2025-05-10T16:27:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGxVcnB3YVdnM0VnWW9tQk9zbWgvUCtSM3JlaERkVmwrNlk4dGhBc3ZGOTNFWGFaYnVBbGxaTjJBQnZLbG0xVnI5K2V4L2Z1anZaMnNtSldJbUJ5b1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NjU2OTA4CWZpbGU6T2N0b01hY3JvXzMuOS4wX3g2NC1zZXR1cC5uc2lzLnppcAp6MWRyWGtRYmRRRGtWTXJ4djZQVDF5SnM1aHFVeTlwZWZkUkZVZ0xPSkEwS2JBdE5uUnJ2OWZNZ25UTHc5V1pZTnFuL0hkVEMwK0Z5TXZnSy9ndHREZz09Cg==",
-      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.9.0/OctoMacro_3.9.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlpncHIvQzNYZGtDcTY3SjZHVlA3Nzlvd2ZFYXhiMzJyS0FOMWwrRjZxTloybXZSS3c2cVNqSjBjYkhLeXdoUmxzdXVmRFZpTWxvcEdGdS9hMmpqUThWSEhndElJV1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2ODk0NDIzCWZpbGU6T2N0b01hY3JvXzMuOS4xX3g2NC1zZXR1cC5uc2lzLnppcAorOFU3WVRhRnhmN29oUHVYM2hTL1VDbzVRMG55YXBOZU5JMmxremxKUm9xMzB4KzZRdUZEd1pMNHM5V3BtV2JsMTJvM0pmQ2NjRFZ1N2ZHMzcrdWtEdz09Cg==",
+      "url": "https://github.com/achambel/octo-macro-releases/releases/download/v3.9.1/OctoMacro_3.9.1_x64-setup.nsis.zip"
     }
   }
 }
